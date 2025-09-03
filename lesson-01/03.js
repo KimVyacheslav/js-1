@@ -5,9 +5,12 @@
 */
 
 // your code
-let sum = 2;
-while (sum <=100) {
-  console.log (sum);
-  sum += 2
+let sum = 0;
+let i =1;
+while (i < 20) {
+  if (i % 2 !==0) {
+    sum += i;
+  }
+  i++;
 }
-
+console.log (sum)
