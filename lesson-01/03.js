@@ -6,7 +6,7 @@
 
 // your code
 let sum = 1;
-while (sum <=100) {
+while (sum <=101) {
   console.log (sum);
   sum += 2
 }
