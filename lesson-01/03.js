@@ -5,4 +5,6 @@
 */
 
 // your code
-let sum
+let sum = 1
+
+
