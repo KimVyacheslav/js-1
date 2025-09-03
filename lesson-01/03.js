@@ -5,8 +5,8 @@
 */
 
 // your code
-let sum = 1;
-while (sum <=101) {
+let sum = 2;
+while (sum <=100) {
   console.log (sum);
   sum += 2
 }
