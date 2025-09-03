@@ -3,7 +3,7 @@
 
 // your code
 let sum = 1;
-const result = 10;
+const result = 20;
 while (sum < result) {
   sum = sum + 1
 }
